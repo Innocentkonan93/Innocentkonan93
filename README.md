@@ -1,11 +1,20 @@
-# 👋 Hi, I’m @Innocentkonan93  
+# Hi, I'm Innocent Konan
 
-- 👀 I’m interested in **creating innovative solutions, exploring new technologies, and mastering software development.**  
-- 🌱 I’m currently learning **advanced Flutter techniques, Laravel backend development, and Google Cloud services.**  
-- 💞️ I’m looking to collaborate on **exciting app development projects, particularly those involving real-time systems, user-friendly interfaces, and integration with mobile wallets or APIs.**  
-- 📫 How to reach me: **https://www.linkedin.com/in/innocentkonan93/**  
+**Flutter and Laravel developer based in Abidjan, Côte d’Ivoire.**
 
-<!---
-Innocentkonan93/Innocentkonan93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build mobile applications and backend services, with a focus on clear user experiences and practical product features.
+
+## Featured work
+
+- **[BookView Flutter](https://github.com/Innocentkonan93/book_view_flutter)** — A customizable Flutter book-card widget with a 3D spine effect, theming, badges, and reading progress.
+- **[VideoSpliter](https://github.com/Innocentkonan93/videospliter)** — Flutter project for splitting videos.
+- **[Zoknot](https://github.com/Innocentkonan93/codon-what_i_do)** — A note-taking app project.
+
+## Technologies
+
+Flutter · Dart · Laravel · PHP
+
+## Find me
+
+- [Portfolio](https://innocentkonan.com)
+- [LinkedIn](https://www.linkedin.com/in/innocentkonan93/)
