@@ -9,7 +9,7 @@ At **SKYTECH SYSTEMS**, I contribute to mobile products across insurance and oth
 
 ## Selected work
 
-- **[CutIt](https://github.com/Innocentkonan93/videospliter)** — Flutter video editing, including native FFmpeg integration. Available on the [App Store](https://apps.apple.com/fr/app/cutit-video-cutting/id6747193487) and [Google Play](https://play.google.com/store/apps/details?id=com.meetsum.cutIt).
+- **CutIt** — Flutter video editing, including native FFmpeg integration. Available on the [App Store](https://apps.apple.com/fr/app/cutit-video-cutting/id6747193487) and [Google Play](https://play.google.com/store/apps/details?id=com.meetsum.cutIt).
 - **RIISE & RIISE Pro** — Client and broker insurance apps built with Flutter and GraphQL: [RIISE](https://apps.apple.com/fr/app/riise-expertis-consulting/id6504408735) · [RIISE Pro](https://apps.apple.com/fr/app/riise-pro/id6748640041).
 - **CNDH-CI Alerte Précoce** — A mobile reporting app for human-rights and electoral incidents, with geolocation and offline support. [App Store](https://apps.apple.com/fr/app/cndh-rci-alerte-pr%C3%A9coce/id6742834540) · [Google Play](https://play.google.com/store/apps/details?id=com.cndh.cndh).
 - **eSachet Recy** — Mobile tools supporting recycling collection and tracking: [App Store](https://apps.apple.com/fr/app/esachet-recy/id6475726296) · [Google Play](https://play.google.com/store/apps/details?id=com.creativgroup.e_sachet_recy).
